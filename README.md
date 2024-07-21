@@ -1,1 +1,1 @@
-# HealthyLifeClinic
+# React JS dashboard application demo
